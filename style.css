@@ -18,3 +18,25 @@
 {
     font-size: 18px;
 }
+.result_para_tag
+{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+.copy_right_footer
+{
+position: fixed;
+color: indigo;
+bottom: 0;
+width: 100%;
+background-color: lightpink;
+line-height: 3;
+text-align: left;
+}
+canvas
+{
+    border: 5px solid cyan;
+    border-radius: 20px;
+    box-shadow: 5px magenta;
+    margin-top: 150px;
+}
