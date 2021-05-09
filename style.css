@@ -1,42 +1,48 @@
-.heading
-{
+.heading{
+
     font-size: 23px;
-    width: 100%;
     margin: 0px;
-    box-shadow: 5px 5px 5px grey;
+    width: 100%;
+    box-shadow: 5px 5px 5px rgb(157, 0, 248);
 }
-.heading_div
-{
+
+.heading_div{
     float: none;
     background: white;
     padding: 10px;
-    border-radius: 20px;
+    border-radius: 20;
     color: black;
-    box-shadow: 5px 5px 5px blanchedalmond;
+    box-shadow: 5px 5px 5px rgb(157, 0, 248);
 }
-.heading_div2
-{
+
+.heading2{
+
     font-size: 18px;
 }
-.result_para_tag
-{
-    font-size: 20px;
+
+body{
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.result_para_tag{
     box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+    
 }
-.copy_right_footer
-{
-position: fixed;
-color: indigo;
-bottom: 0;
-width: 100%;
-background-color: lightpink;
-line-height: 3;
-text-align: left;
+.footer{
+
+    position: fixed;
+    color: white;
+    bottom: 0;
+    background: rgb(110, 109, 109);
+    line-height: 3;
+    text-align: center;
+    width: 100%;
 }
-canvas
-{
-    border: 5px solid cyan;
-    border-radius: 20px;
-    box-shadow: 5px magenta;
+
+canvas{
+    border: 5px solid maroon;
+    border-radius: 20;
+    box-shadow: 5px 5px 5px grey;
     margin-top: 150px;
 }
